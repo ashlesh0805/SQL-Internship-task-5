@@ -26,6 +26,7 @@ Mastery of merging and retrieving data effectively using SQL join queries.
 
 ## Key Concepts
 -- Joins
+
 -- Relationships  
 
 ```sql
@@ -34,4 +35,5 @@ Mastery of merging and retrieving data effectively using SQL join queries.
 2. Create a new database or use an existing one. 
 3. Copy the SQL script from `task5.sql` into the query editor.  
 4. Run the script to create tables, insert data, and execute JOIN queries.  
+
 5. Check the results of each JOIN query in the output panel.  
